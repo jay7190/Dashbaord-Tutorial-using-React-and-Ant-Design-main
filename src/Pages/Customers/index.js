@@ -45,7 +45,7 @@ function Customers() {
           },
 
           {
-            title: "address",
+            title: "addresss",
             dataIndex: "address",
             render: (address) => {
               return (
